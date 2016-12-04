@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>groupId</groupId>
-    <artifactId>TP2-TESTAUTOMATIQUE</artifactId>
+    <artifactId>Gestion-Voitures</artifactId>
     <version>1.0-SNAPSHOT</version>
     <name>Java :: Simple Project :: SonarQube Scanner for Maven</name>
 

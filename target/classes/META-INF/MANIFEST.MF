@@ -5,8 +5,8 @@ Implementation-Version: 1.0-SNAPSHOT
 Built-By: koubouramama
 Implementation-Vendor-Id: groupId
 Build-Jdk: 1.8.0_111
-Implementation-URL: http://projects.spring.io/spring-boot/TP2-TESTAUTO
- MATIQUE/
+Implementation-URL: http://projects.spring.io/spring-boot/Gestion-Voit
+ ures/
 Created-By: Maven Integration for Eclipse
 Implementation-Vendor: Pivotal Software, Inc.
 Main-Class: ca.uqam.console.Main
